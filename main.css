@@ -1,0 +1,27 @@
+body, html,h1,h2,h3,h4,p,ul,li {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    background-color:royalblue;
+    font-size;
+}
+.personalInfo {
+    text-align:center;
+}
+
+
+.personalInfo h1 {
+    text-decoration:underline;
+    font-size:50px;}
+
+.Education{
+    margin: 10px 500px 10px 500px;
+}
+
+
+.WorkExperience{
+    margin: 10px 500px 10px 500px;}
+
+.personalReferences {
+    margin: 10px 500px 10px 500px;
+}
